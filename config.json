@@ -1,0 +1,205 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#041823",
+            "lang-select-color": "#222829",
+            "bg-light": "#050D0F",
+            "welcome-bonus-bg": "#041823",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0E2531",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#041823",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#A4DF06",
+            "yellow": "#b106e0",
+            "yellow-button": "#A4DF06",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#224253",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#224253",
+            "faq-label": "#224253",
+            "bg-footer": "#041823",
+            "copyright": "#e7e7d5",
+            "starColor": "#17d26a",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Slotexo",
+            "title": "Slotexo Casino | Review, Bonuses, Games & Fast Payouts",
+            "description": "Play at Slotexo Casino: thousands of slots, live games, tournaments, and generous bonuses. Quick registration, secure payments, crypto support, and 24\/7 assistance.\n",
+            "canonical": "slotexocasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/748",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "slotexocasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/749",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/750"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/751",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Slotexo Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Slotexo Casino \u2014 Online Casino with Bonuses and Games",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/752",
+            "imageSizeModifier": 10,
+            "imageYModifier": -4,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/753",
+            "mobileImageSizeModifier": -10,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Huge selection of slots from top providers",
+                "Live casino with professional dealers",
+                "Table games: roulette, blackjack, baccarat",
+                "Sports betting and esports on one platform",
+                "Crypto support and fast financial transactions",
+                "Generous bonuses and regular promotions for players",
+                "Mobile-friendly version without app downloads"
+            ],
+            "advantagesAfterText": "Slotexo offers thousands of games from top developers, including slots, live casino, and sports betting. The platform is secure, user-friendly, and supports multiple payment methods, including cryptocurrencies.\n",
+            "knowMore": "Know more",
+            "appTitle": "Slotexo App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/754",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Slotexo App",
+            "mobileGooglePlayImageTitle": "Slotexo App",
+            "mobileIosImageTitle": "Slotexo App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Slotexo",
+                "description1": "Slotexo provides big bonuses and generous promotions, including jackpots reaching one million euros. Players enjoy high cashback and excellent winning opportunities.\n",
+                "items": [
+                    "Bonus up to \u20ac500 for newcomers",
+                    "Slot jackpots up to \u20ac1,000,000",
+                    "Cashback up to 15% weekly"
+                ],
+                "description2": "Slotexo is a modern online casino with a user-friendly interface. The platform offers a wide variety of games from leading providers. Players can enjoy slots, table games, and live casino options. High-quality graphics and fast game loading enhance the experience. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/755",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "The casino supports secure payment and withdrawal methods. Registration is simple and takes minimal time. Bonuses and regular promotions are available for all users. The site is mobile-friendly without requiring downloads. Customer support is available 24\/7 via live chat. Slotexo combines reliability, convenience, and a broad range of entertainment."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Slotexo \u2014 A Modern Casino with Endless Possibilities",
+                "description": "<p>\nSlotexo is a dynamic gaming platform that combines sleek design, user-friendly navigation, and a wide range of entertainment options. The casino is tailored for players who value quality, security, and variety. Whether you prefer classic slots, table games, or live casino with real dealers, Slotexo has something for everyone.\n\n<\/p>\n<br>\n<p>\nThe game library at Slotexo is truly impressive. Partnering with leading global providers ensures top-notch graphics, fair gameplay, and unique features. In addition to slots and table games, players can enjoy live casino and sports betting, making the site a versatile choice for gaming enthusiasts.\n\n<\/p>\n<br>\n<p>\nSecurity and convenience are top priorities. Registration takes only a few minutes, and all transactions are protected by advanced encryption technologies. The casino supports multiple payment methods, including e-wallets and cryptocurrencies, offering flexibility and comfort for players.\n\n<\/p>\n<br>\n<p>\nSlotexo also stands out with generous bonuses and regular promotions. New users enjoy welcome offers, while loyal players benefit from cashback, free spins, and exciting tournaments. A comprehensive loyalty program provides additional perks and exclusive rewards.\n\n<\/p>\n<br>\n<p>\nThe mobile-friendly version of the site delivers full functionality without requiring downloads. This means you can play anytime, anywhere. Slotexo combines reliability, innovation, and entertainment to make your gaming experience as enjoyable and seamless as possible.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Supported Currencies at Slotexo\n\n<\/h3>\n\n<p>\nSlotexo offers players a wide range of payment options to make deposits and withdrawals as convenient as possible. The platform supports traditional bank cards, including Visa and MasterCard, as well as popular e-wallets such as Skrill, Neteller, and Jeton. For those who prefer alternative solutions, services like MiFinity, AstroPay, and Paysafecard are available, ensuring fast and secure transactions.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to cryptocurrency payments. Slotexo accepts Bitcoin, Ethereum, Litecoin, Tether, and other digital assets, making the casino attractive to users who value anonymity and transaction speed. All operations are protected by advanced encryption technologies, guaranteeing the safety of funds and personal data.\n\n<\/p>\n<br>\n<p>\nThe casino also offers flexible currency options. Players can use major global currencies, including euros, US dollars, Canadian and Australian dollars, and Brazilian real. This allows users from different regions to play comfortably without the need for currency conversion. With such a variety of payment methods and currencies, Slotexo ensures convenience and accessibility for a global audience.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for Visiting and Playing at Slotexo\n\n<\/h3>\n\n<p>\nSlotexo follows strict guidelines to ensure fair play and user safety. The main requirement is that players must be of legal age and complete registration with identity verification. All activities on the platform must comply with the laws of the player\u2019s country of residence. The casino guarantees data protection and promotes responsible gaming practices.\n\n<\/p>\n<br>\n<p>\nIt is prohibited to create multiple accounts, use someone else\u2019s information, or engage in fraudulent activities. Players must provide accurate details during registration and verification. Any attempt to manipulate game results or violate bonus terms will result in account suspension. Automated betting systems are also strictly forbidden.\n\n<\/p>\n<br>\n<p>\nSlotexo reserves the right to review transactions and withhold payments if rule violations are suspected. All financial operations are processed through secure channels, and payout limits and timelines are clearly stated in the site\u2019s terms. Following these rules ensures fair play and a safe environment for all participants.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Main Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nPlayers must be of legal age and registered.\n\n<\/li>\n            <li>\u2022 \nResponsible gaming rules must be observed.\n\n<\/li>\n            <li>\u2022 \nAll actions must comply with local laws.\n<\/li>\n\n  \n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Prohibited\n<\/h4>\n        <ul>\n            <li>\u2022 \nCreating multiple accounts.\n\n<\/li>\n            <li>\u2022 \nUsing false or stolen information.\n\n<\/li>\n       <li>\u2022 \nEmploying automated betting systems.\n\n<\/li>\n            <li>\u2022 \nViolating bonus program terms.\n\n\n<\/li>\n  \n        <\/ul><br>\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotexo License, Data Protection, and Privacy Policy\n\n<\/h3>\n\n<p>\nSlotexo operates under an international license issued by a recognized regulatory authority, ensuring the legality and transparency of its operations. The license guarantees compliance with fair gaming standards and the protection of player interests. All processes on the platform adhere to international regulations and best practices.\n\n<\/p>\n<br>\n<p>\nTo safeguard user data, Slotexo employs advanced encryption technologies. All personal information and financial transactions are secured using SSL protocols, preventing unauthorized access and data breaches. This means your information remains confidential at every stage of interaction with the site.\n\n<\/p>\n<br>\n<p>\nSlotexo\u2019s privacy policy is designed to protect players\u2019 personal details. The casino commits not to share data with third parties without user consent, except as required by law. All collected information is used solely to provide services and enhance user experience.\n\n<\/p>\n<br>\n<p>\nAdditionally, the platform conducts regular security audits and updates its protection systems to meet modern standards. This makes Slotexo a reliable choice for players who value safety and privacy in online gaming.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotexo Customer Support: Fast, Convenient, Multilingual\n\n<\/h3>\n\n<p>\nSlotexo places great emphasis on delivering high-quality customer service. The support team operates 24\/7 to assist players with any issues related to registration, payments, bonuses, or technical difficulties. The main goal is to ensure a smooth and secure experience on the platform.\n<\/p>\n<br>\n<p>\nSeveral communication channels are available. Live chat is the fastest way to get help, offering instant responses directly on the website. Email is ideal for more complex inquiries that require detailed attention. A phone line is available for those who prefer real-time conversation and quick solutions.\n\n<\/p>\n<br>\n<p>\nResponse times vary by channel, but live chat typically replies within minutes. Email requests are handled within a few hours, and phone support is available during working hours. The service quality is high: agents are polite, knowledgeable, and ready to assist in any situation.\n\n<\/p>\n<br>\n<p>\nSlotexo also provides multilingual support, including English, German, French, Spanish, and more, making the platform convenient for international players. This ensures that every user receives assistance in a language they understand.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication Channels\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat on the website (instant response)\n\n<\/li>\n            <li>\u2022 \nEmail for detailed inquiries\n\n<\/li>\n            <li>\u2022 \nPhone line for real-time assistance\n<\/li>\n    \n  \n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Service Highlights\n<\/h4>\n        <ul>\n            <li>\u2022 \n24\/7 availability\n\n<\/li>\n            <li>\u2022 \nResponses within minutes via chat\n\n<\/li>\n       <li>\u2022 \nMultilingual support\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Slotexo",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotexo Loyalty Program: Levels, Bonuses, and Benefits\n\n<\/h3>\n\n<p>\nThe Slotexo loyalty program is designed to reward active players and provide them with extra benefits. It is available to all registered users who regularly place bets and participate in games. The more you play, the higher your level and the more exclusive bonuses you receive.\n\n<\/p>\n<br>\n<p>\nThe core concept of the program is earning points through activity. These points help you progress through levels and unlock new opportunities. Each level offers unique perks: increased bonuses, personalized offers, higher cashback, and access to private tournaments. The program focuses on long-term engagement, ensuring maximum rewards for loyal players.\n\n<\/p>\n<br>\n<p>\nRegistration in the program is automatic after creating an account. No additional forms are required \u2014 just play and meet the conditions. All bonuses are credited transparently, and progress can be tracked in your personal dashboard.\n\n<\/p>\n<br>\n <h4 style = \"font-weight: bold; font-size: 24px;\">Program Levels and How to Reach Them\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic Level \u2014 available immediately after registration.\n\n<\/li>\n            <li>\u2022 \nSilver Level \u2014 achieved by collecting a set number of points.\n\n<\/li>\n            <li>\u2022 \nGold Level \u2014 for active players with high betting turnover.\n\n<\/li>\n           <li>\u2022 \nPlatinum Level \u2014 includes a personal manager and VIP bonuses.\n\n<\/li>\n       \n            <li>\u2022 \nElite Level \u2014 maximum privileges, exclusive tournaments, and gifts.\n\n<\/li>\n         \n  \n        <\/ul>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n       <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Conditions<\/h4>\n\n <ul>\n            <li>\u2022 \nBe a registered Slotexo user.\n\n<\/li>\n            <li>\u2022 \nComplete account verification.\n\n<\/li>\n            <li>\u2022 \nPlace real bets on the platform.\n\n<\/li>\n        \n        <\/ul><br>\n\n\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Bonuses and Benefits\n<\/h4>\n        <ul>\n            <li>\u2022 \nCashback up to 15% on losses.\n\n<\/li>\n            <li>\u2022 \nWeekly free spins for regular players.\n\n<\/li>\n       <li>\u2022 \nPersonal deposit bonuses for VIP levels.\n\n<\/li>\n            <li>\u2022 \nAccess to private tournaments with big prizes.\n\n<\/li>\n  \t    <li>\u2022 \nExclusive gifts and promotions for elite members.\n\n\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses, Winnings, and Special Offers at Slotexo\n\n<\/h3>\n\n<p>\nSlotexo provides a wide range of bonuses and promotions that make gaming more exciting and rewarding. Beyond the loyalty program, the platform regularly hosts seasonal events, tournaments, and special campaigns tailored to different types of players. These offers include welcome bonuses, reload bonuses, cashback, free spins, and exclusive prizes during themed events.\n\n<\/p>\n<br>\n<p>\nEach bonus is designed to boost winning chances and offer extra opportunities for play. Seasonal promotions often coincide with holidays or major events, featuring unique rewards and enhanced multipliers. Tournaments allow players to compete for impressive cash prizes and free spins.\n\n<\/p>\n<br>\n<p>\nSlotexo also runs special deals for live casino enthusiasts and sports bettors. These may include cashback on losses, deposit bonuses, or exclusive VIP offers. All bonuses come with clear terms and transparent wagering requirements.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Main Bonuses and Offers<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome Bonus: 100% on first deposit + free spins.\n\n<\/li>\n            <li>\u2022 \nReload Bonuses: weekly offers up to \u20ac700 on deposits.\n\n<\/li>\n            <li>\u2022 \nCashback: up to 15% on casino losses and 10% on sports.\n\n<\/li>\n            <li>\u2022 \nFree Spins: up to 200 spins on popular slots.\n\n<\/li>\n\t    <li>\u2022 \nLive Cashback: 25% back on live dealer games.\n\n<\/li>\n\t    <li>\u2022 \nTournaments: prize pools up to \u20ac50,000 and hundreds of free spins.\n\n<\/li>\n\t    <li>\u2022 \nSeasonal Promotions: themed events with exclusive rewards and bonuses.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Slotexo: Top Entertainment for Players\n\n<\/h3>\n\n<p>\nSlotexo offers a vast selection of games designed to satisfy every player\u2019s taste. The core of the catalog consists of video slots featuring vibrant graphics, engaging themes, and bonus features. These include both classic machines and modern slots with progressive jackpots. For fans of table games, roulette, blackjack, and baccarat are available in multiple variations.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to live casino games, where players can interact with real dealers in real time. This creates an authentic casino atmosphere and allows social interaction. Slotexo also features games with massive payouts, including jackpots that can reach impressive amounts.\n\n<\/p>\n<br>\n<p>\nGames from leading providers such as NetEnt, Pragmatic Play, and Evolution Gaming ensure top quality and fair play. The platform regularly adds new releases so players always have access to fresh and exciting content. With easy navigation and mobile optimization, gaming is available anytime, anywhere.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular Slotexo Games<\/h4>\n\n <ul>\n            <li>\u2022 \nStarburst \u2014 legendary slot with bright graphics and simple rules.\n\n<\/li>\n            <li>\u2022 \nBook of Dead \u2014 adventure-themed slot with bonus rounds and high win potential.\n\n<\/li>\n            <li>\u2022 \nSweet Bonanza \u2014 colorful slot featuring multipliers and cascading reels.\n\n<\/li>\n            <li>\u2022 \nMega Moolah \u2014 progressive jackpot famous for million-dollar payouts.\n\n<\/li>\n\t    <li>\u2022 \nLightning Roulette \u2014 innovative roulette version with boosted multipliers.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack Live \u2014 classic card game with real dealers.\n\n<\/li>\n\t    <li>\u2022 \nCrazy Time \u2014 popular game show with bonus rounds and big prizes.\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Slotexo\n\n<\/h3>\n\n<p> \nSlotexo offers flexible betting limits to suit players with different budgets. Minimum bets allow you to start playing without large investments, while maximum bets provide opportunities for big wins. These limits apply to popular game categories: slots, table games, and live casino. This ensures every user can choose a comfortable level of risk and strategy.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#A4DF06; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Jackpot Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.20<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac50<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Slotexo: Shows, Tournaments, and Special Promotions\n\n<\/h3>\n\n<p>\nSlotexo is not just a gaming platform but a hub for exciting events and unique entertainment. The casino regularly hosts special activities that make the gaming experience more thrilling. These include themed promotions, holiday offers, tournaments with massive prize pools, and exclusive live game shows.\n\n<\/p>\n<br>\n<p>\nTournaments are among the most popular attractions. They allow players to compete against each other for impressive cash prizes and bonuses. Often dedicated to popular slots or table games, these competitions reward winners with money, free spins, and VIP perks. Prize pools can reach tens of thousands of euros, making participation highly appealing.\n\n<\/p>\n<br>\n<p>\nLive casino at Slotexo features unique game shows that recreate the atmosphere of a real casino. Popular formats include Crazy Time, Monopoly Live, and Dream Catcher, where players can win big in interactive rounds. These shows combine excitement, dynamic gameplay, and entertainment elements, turning every session into a memorable event.\n\n<\/p>\n<br>\n<p>\nAdditionally, Slotexo organizes seasonal promotions tied to holidays and major sports events. These campaigns offer exclusive bonuses, boosted multipliers, and chances to win gifts, making the platform a true entertainment center rather than just a casino.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">All Entertainment and Events<\/h4>\n\n <ul>\n            <li>\u2022 \nSlot Tournaments \u2014 competitions with prize pools up to \u20ac50,000 and hundreds of free spins.\n\n<\/li>\n            <li>\u2022 \nLive Shows \u2014 real-host games like Crazy Time, Monopoly Live, Dream Catcher.\n\n<\/li>\n            <li>\u2022 \nSeasonal Promotions \u2014 holiday bonuses, themed tournaments, and exclusive gifts.\n\n<\/li>\n            <li>\u2022 \nSpecial Live Game Offers \u2014 cashback up to 25% and deposit bonuses.\n\n<\/li>\n\t    <li>\u2022 \nExclusive VIP Events \u2014 private tournaments and personalized rewards for elite players.\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at Slotexo\n\n<\/h3>\n\n<p>\nSlotexo provides convenient and secure withdrawal options to ensure smooth management of winnings. All transactions are processed through encrypted channels using advanced security technologies, guaranteeing the safety of funds and personal data. The casino supports both traditional methods and modern solutions, including e-wallets and cryptocurrencies.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the chosen method. E-wallets such as Skrill, Neteller, and Jeton offer the fastest transfers \u2014 usually from a few minutes to 24 hours. Bank cards like Visa and MasterCard take longer, up to 3\u20135 business days. Cryptocurrency transactions are almost instant, making them the best choice for players who value speed.\n\n<\/p>\n<br>\n<p>\nSlotexo sets withdrawal limits to protect players and maintain security standards. The minimum withdrawal amount is typically \u20ac20, while maximum limits can reach \u20ac500 per day and \u20ac7,000 per month. These restrictions help ensure transparency and prevent fraudulent activities.\n\n<\/p>\n<br>\n<p>\nAll withdrawal requests undergo verification, including KYC procedures (identity confirmation), to guarantee safety and compliance with licensing requirements. This is a standard practice among reputable online casinos to ensure fairness and user protection.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Withdrawal Methods<\/h4>\n\n <ul>\n            <li>\u2022 \nVisa \/ MasterCard \u2014 up to 3\u20135 business days.\n\n<\/li>\n            <li>\u2022 \nSkrill, Neteller, Jeton \u2014 fast transfers, 0\u201324 hours.\n\n<\/li>\n            <li>\u2022 \nMiFinity, AstroPay \u2014 convenient alternatives, up to 48 hours.\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies (Bitcoin, Ethereum, Litecoin, Tether) \u2014 almost instant payouts.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Processing Times<\/h4>\n\n <ul>\n            <li>\u2022 \nE-wallets: up to 24 hours.\n\n<\/li>\n            <li>\u2022 \nBank cards: 3\u20135 business days.\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies: a few minutes to an hour.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Withdrawal Limits<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum amount: \u20ac20.\n\n<\/li>\n            <li>\u2022 \nMaximum: \u20ac500 per day, \u20ac7,000 per month.\n<\/li>\n \n        <\/ul><br>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need to download an app to play?",
+                    "answer": "No, Slotexo runs entirely in your browser and is mobile-friendly.\n"
+                },
+                {
+                    "title": "Is there a demo mode for games?",
+                    "answer": "Yes, most slots are available in demo mode without registration or deposit.\n"
+                },
+                {
+                    "title": "Can I play for free?",
+                    "answer": "Yes, you can play in demo mode without real bets, but winnings cannot be withdrawn.\n"
+                },
+                {
+                    "title": "Are there country restrictions?",
+                    "answer": "Yes, some regions are restricted. The full list is available in the casino\u2019s terms.\n"
+                },
+                {
+                    "title": "How does account verification work?",
+                    "answer": "You need to upload documents confirming your identity and address through a secure interface.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/756",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Slotexo"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
